@@ -1,0 +1,60 @@
+{
+    "📚 Estudos": [
+        {
+            "texto": "Estudar Python para o projeto",
+            "concluida": false
+        },
+        {
+            "texto": "Ler documentação sobre tkinter",
+            "concluida": true
+        },
+        {
+            "texto": "Fazer exercícios de programação",
+            "concluida": false
+        },
+        {
+            "texto": "Assistir tutorial sobre interfaces",
+            "concluida": true
+        },
+        {
+            "texto": "Criar aplicação de exemplo",
+            "concluida": false
+        }
+    ],
+    "🏠 Casa": [
+        {
+            "texto": "Limpar a casa",
+            "concluida": true
+        },
+        {
+            "texto": "Fazer compras no mercado",
+            "concluida": false
+        },
+        {
+            "texto": "Organizar documentos",
+            "concluida": false
+        },
+        {
+            "texto": "Pagar contas do mês",
+            "concluida": true
+        }
+    ],
+    "💼 Trabalho": [
+        {
+            "texto": "Reunião com equipe às 14h",
+            "concluida": false
+        },
+        {
+            "texto": "Enviar relatório mensal",
+            "concluida": true
+        },
+        {
+            "texto": "Revisar código do projeto",
+            "concluida": false
+        },
+        {
+            "texto": "Preparar apresentação",
+            "concluida": false
+        }
+    ]
+}
